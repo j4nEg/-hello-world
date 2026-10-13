@@ -1,2 +1,2 @@
 # -hello-world
-zadanie1
+Jestem Janek, bardzo lubie muzyke i koszykowke
